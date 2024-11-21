@@ -6,9 +6,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-uzgk3!+3la^gcs0%ir-^tt48s(%gz0-mm(l4rts7!2k7$*pogs'
 
 
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['2024-suplementos.onrender.com']
 
 LOGIN_URL = '/login/'
 
