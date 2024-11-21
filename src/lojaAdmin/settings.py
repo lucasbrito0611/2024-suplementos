@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-uzgk3!+3la^gcs0%ir-^tt48s(%gz0-mm(l4rts7!2k7$*pogs
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['2024-suplementos.onrender.com']
+ALLOWED_HOSTS = ['two024-suplementos.onrender.com']
 
 LOGIN_URL = '/login/'
 
